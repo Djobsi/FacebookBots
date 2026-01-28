@@ -7,6 +7,7 @@ Third, sign in to your Facebook account and go to the profile whose friends you 
 Fourth: Paste and run the code in PyCharm (need to install all this libraries!). REMEMBER: ALL YOU DO IS AT YOUR OWN RISK!
 ------------------------------------------------------------------------------------------------------------------------------------------
 Final checklist before the start:
+
 1.Chrome is completely closed before running the command in Win+R.
 
 2.The screen scale (Zoom) in Chrome is at 100%.
