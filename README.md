@@ -33,5 +33,5 @@ If, despite the breaks, the "You don't know this person" window starts to appear
 If this profile is important to you, always start with smaller amounts (e.g. 200-300 per day) and gradually increase so as not to "stress" the system.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-IMPORTANT DISCLAIMER
+⚠️IMPORTANT DISCLAIMER⚠️
 This script is for educational purposes only. Using automation tools on Facebook can lead to account restrictions or permanent bans. Use this software at your own risk. The author is not responsible for any consequences resulting from the use of this code.
