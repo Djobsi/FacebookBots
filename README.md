@@ -34,4 +34,5 @@ If this profile is important to you, always start with smaller amounts (e.g. 200
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ⚠️IMPORTANT DISCLAIMER⚠️
+
 This script is for educational purposes only. Using automation tools on Facebook can lead to account restrictions or permanent bans. Use this software at your own risk. The author is not responsible for any consequences resulting from the use of this code.
