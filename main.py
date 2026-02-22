@@ -57,7 +57,7 @@ def run_fb_marathon():
                     print(f"[{count}/{TARGET_LIMIT}] Ready!")
 
                     # --- CHECK FOR "YOU DON'T KNOW THIS PERSON" ERROR ---
-                    time.sleep(1)  # Изчакваме прозореца да се появи
+                    time.sleep(1) 
                     warnings = driver.find_elements(By.XPATH,
                                                     "//span[contains(., 'OK') or contains(., 'ОК') or contains(., 'Confirm') or contains(., 'Потвърждавам')]")
 
@@ -91,4 +91,5 @@ def run_fb_marathon():
 
 
 if __name__ == "__main__":
+
     run_fb_marathon()
